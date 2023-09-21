@@ -1,7 +1,7 @@
 # OIBSIP
 🎉I am glad to share that I have completed the 1st task of my data science internship at Oasis Infobyte 
  
- ➡️TASK 1- IRIS CLASSIFICATION 
+ ➡️TASK 1- IRIS CLASSIFICATION
  Language : Python using Jupiter notebook
  
 
